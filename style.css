@@ -1235,6 +1235,9 @@
     .nav1 b {
         font-size: 1.2rem;
     }
+    .container6{
+        margin-top:-1rem
+    }
     .gpt4-info b {
         margin-top: -1rem !important;
         font-size: large;
