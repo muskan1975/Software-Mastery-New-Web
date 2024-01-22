@@ -1236,7 +1236,7 @@
         font-size: 1.2rem;
     }
     .container6{
-        margin-top:-1rem
+        margin-top:-1rem;
     }
     .gpt4-info b {
         margin-top: -1rem !important;
@@ -1282,6 +1282,9 @@
         margin: 0.2rem;
         padding-bottom: 1rem;
         padding-top: 1rem;
+    }
+    .container2{
+        margin-top:-2rem
     }
     .container3 {
         height: 40rem;
